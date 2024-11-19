@@ -44,14 +44,14 @@ cd compliment-ai
 pip install -r requirements.txt
 
 # Run the application
-python main.py
+python webcam.py
 ```
 
 ## 📖 Usage
 
 1. **Start the App**
    ```bash
-   python main.py
+   python webcam.py
    ```
 
 2. **Choose Your Input**
